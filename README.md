@@ -12,6 +12,15 @@ Starts a server in the folder
   4. Run the command python -m http.server 8000
   5. Open a browser and go to http://localhost:8000
 
+
+- **Note:** the following files must be in the same directory otherwise the APP does not work correctly. List:
+  1. model.json
+  2. index.html
+  3. group1-shard1of1.bin
+  4. celsius_to_fahrenheit.h5
+  5. drawing.js
+  6. fabric.min.js
+
 # APP
 
 - Draw with the mouse or your finger (only smarthpones) on the square canvas a number from 0 to 9, and click on "Predict". To clear the canvas click on "Clear".
