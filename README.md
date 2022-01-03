@@ -24,3 +24,5 @@ Starts a server in the folder
 # APP
 
 - Draw with the mouse or your finger (only smarthpones) on the square canvas a number from 0 to 9, and click on "Predict". To clear the canvas click on "Clear".
+
+![alt text](https://github.com/eyamilabraham/draw-numbers-detect-numbers/blob/main/pic.jpg)
